@@ -1,0 +1,380 @@
+1610692152388	geckodriver	INFO	Listening on 127.0.0.1:56531
+1610692155435	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MOSHUA~1\\AppData\\Local\\Temp\\rust_mozprofileYChhQc"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610692163685	Marionette	INFO	Listening on port 56540
+1610692163802	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610692253256	geckodriver	INFO	Listening on 127.0.0.1:56698
+1610692256331	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MOSHUA~1\\AppData\\Local\\Temp\\rust_mozprofileD312h0"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610692261825	Marionette	INFO	Listening on port 56707
+1610692262094	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610692524705	geckodriver	INFO	Listening on 127.0.0.1:56980
+1610692527754	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MOSHUA~1\\AppData\\Local\\Temp\\rust_mozprofile9oLprn"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610692533821	Marionette	INFO	Listening on port 56989
+1610692534014	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610693086523	geckodriver	INFO	Listening on 127.0.0.1:57725
+1610693089558	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MOSHUA~1\\AppData\\Local\\Temp\\rust_mozprofileC0REEc"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610693096542	Marionette	INFO	Listening on port 57735
+1610693096918	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610693241275	geckodriver	INFO	Listening on 127.0.0.1:57905
+1610693244333	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MOSHUA~1\\AppData\\Local\\Temp\\rust_mozprofileJKPrIP"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610693249849	Marionette	INFO	Listening on port 57914
+1610693250102	Marionette	WARN	TLS certificate errors will be ignored for this session
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+ner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MOSHUA~1\\AppData\\Local\\Temp\\rust_mozprofileufyZbl"
+1610693658528	geckodriver	INFO	Listening on 127.0.0.1:58401
+1610693661577	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MOSHUA~1\\AppData\\Local\\Temp\\rust_mozprofileBDEoF7"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610693667569	Marionette	INFO	Listening on port 58411
+1610693667851	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610693719525	geckodriver	INFO	Listening on 127.0.0.1:58491
+1610693722557	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MOSHUA~1\\AppData\\Local\\Temp\\rust_mozprofileCeBrdP"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610693728247	Marionette	INFO	Listening on port 58502
+1610693728310	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610693748609	geckodriver	INFO	Listening on 127.0.0.1:58574
+1610693751725	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MOSHUA~1\\AppData\\Local\\Temp\\rust_mozprofile6M7WwM"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610693757620	Marionette	INFO	Listening on port 58584
+1610693757994	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610694596277	geckodriver	INFO	Listening on 127.0.0.1:59649
+1610694599343	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MOSHUA~1\\AppData\\Local\\Temp\\rust_mozprofile19r1Q9"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610694605311	Marionette	INFO	Listening on port 59659
+1610694605604	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610694675068	geckodriver	INFO	Listening on 127.0.0.1:59823
+1610694678097	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MOSHUA~1\\AppData\\Local\\Temp\\rust_mozprofileuUNJnC"
+1610695698935	geckodriver	INFO	Listening on 127.0.0.1:61695
+1610695701981	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MOSHUA~1\\AppData\\Local\\Temp\\rust_mozprofileGe29Z4"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610695708878	Marionette	INFO	Listening on port 61706
+1610695709131	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610697589767	geckodriver	INFO	geckodriver 0.20.1
+1610697589791	geckodriver	INFO	Listening on 127.0.0.1:63840
+1610697592837	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MOSHUA~1\\AppData\\Local\\Temp\\rust_mozprofile.NXQPYhjLE48b"
+1610697596991	geckodriver	INFO	geckodriver 0.20.1
+1610697597011	geckodriver	INFO	Listening on 127.0.0.1:63857
+1610697600045	geckodriver	INFO	geckodriver 0.20.1
+1610697600068	geckodriver	INFO	Listening on 127.0.0.1:63866
+1610697603085	geckodriver	INFO	geckodriver 0.20.1
+1610697603125	geckodriver	INFO	Listening on 127.0.0.1:63877
+1610697606083	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MOSHUA~1\\AppData\\Local\\Temp\\rust_mozprofile.qqG6OVO7bCKK"
+1610697607900	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\moshuangyou\AppData\Local\openvr\openvrpaths.vrpath
+1610697608900	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\moshuangyou\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\moshuangyou\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\moshuangyou\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\moshuangyou\AppData\Local\openvr\openvrpaths.vrpath
+1610697614836	Marionette	INFO	Listening on port 63886
+[Child 9792] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9792] WARNING: pipe err1610697617086	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610697617158	Marionette	DEBUG	Register listener.js for window 4294967297
+1610697619320	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1610697620202	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1610697620202	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1610697620845	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uaterp.pgl-world.com.cn/"
+1610697621224	Marionette	DEBUG	Received DOM event "pageshow" for "https://uaterp.pgl-world.com.cn/"
+1610697624112	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1610697628368	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1610697628653	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1610697628967	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1610697629484	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1610697685270	geckodriver	INFO	geckodriver 0.20.1
+1610697685290	geckodriver	INFO	Listening on 127.0.0.1:64100
+1610697688294	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MOSHUA~1\\AppData\\Local\\Temp\\rust_mozprofile.cWX5nxvXjcwb"
+1610697689482	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\moshuangyou\AppData\Local\openvr\openvrpaths.vrpath
+1610697690232	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\moshuangyou\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\moshuangyou\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\moshuangyou\AppData\Local\openvr\openvrpaths.vrpath
+1610697693042	Marionette	INFO	Listening on port 64109
+[Child 27468] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 27468] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cUnable to read VR Path Registry from C:\Users\moshuangyou\AppData\Local\openvr\openvrpaths.vrpath
+1610697694426	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610697694493	Marionette	DEBUG	Register listener.js for window 4294967297
+1610697696565	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1610697697190	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1610697697191	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1610697697981	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uaterp.pgl-world.com.cn/"
+1610697698310	Marionette	DEBUG	Received DOM event "pageshow" for "https://uaterp.pgl-world.com.cn/"
+1610697700954	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1610697705017	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1610697705295	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1610697705576	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1610697705865	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1610698033071	geckodriver	INFO	geckodriver 0.20.1
+1610698033092	geckodriver	INFO	Listening on 127.0.0.1:64706
+1610698036105	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MOSHUA~1\\AppData\\Local\\Temp\\rust_mozprofile.RKwUX9DcUJXp"
+1610698037267	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\moshuangyou\AppData\Local\openvr\openvrpaths.vrpath
+1610698038030	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\moshuangyou\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\moshuangyou\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\moshuangyou\AppData\Local\openvr\openvrpaths.vrpath
+1610698040905	Marionette	INFO	Listening on port 64715
+[Child 30240] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 30240] WARNING: Unable to read VR Path Registry from C:\Users\moshuangyou\AppData\Local\openvr\openvrpaths.vrpath
+1610698042334	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610698042391	Marionette	DEBUG	Register listener.js for window 6442450945
+1610698044463	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1610698044924	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1610698044925	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1610698045465	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uaterp.pgl-world.com.cn/"
+1610698045614	Marionette	DEBUG	Received DOM event "pageshow" for "https://uaterp.pgl-world.com.cn/"
+1610698048251	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1610698052667	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1610698052949	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1610698053229	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1610698053707	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1610698086914	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1610698093373	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1610698122448	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1610698301404	geckodriver	INFO	geckodriver 0.20.1
+1610698301429	geckodriver	INFO	Listening on 127.0.0.1:65222
+1610698304472	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MOSHUA~1\\AppData\\Local\\Temp\\rust_mozprofile.wTAxy9Qj769a"
+1610698305472	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\moshuangyou\AppData\Local\openvr\openvrpaths.vrpath
+1610698306167	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\moshuangyou\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\moshuangyou\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\moshuangyou\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 1036] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13024] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13024] WARNING: pipe erUnable to read VR Path Registry from C:\Users\moshuangyou\AppData\Local\openvr\openvrpaths.vrpath
+1610698308995	Marionette	INFO	Listening on port 65232
+1610698310608	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610698310665	Marionette	DEBUG	Register listener.js for window 6442450945
+1610698312741	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1610698314006	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1610698314007	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1610698314631	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uaterp.pgl-world.com.cn/"
+1610698314973	Marionette	DEBUG	Received DOM event "pageshow" for "https://uaterp.pgl-world.com.cn/"
+1610698317718	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1610698322118	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1610698322417	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1610698322710	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1610698537347	geckodriver	INFO	geckodriver 0.20.1
+1610698537374	geckodriver	INFO	Listening on 127.0.0.1:65516
+1610698540398	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MOSHUA~1\\AppData\\Local\\Temp\\rust_mozprofile.TNWGXdRN1DLA"
+1610698541430	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\moshuangyou\AppData\Local\openvr\openvrpaths.vrpath
+1610698542135	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\moshuangyou\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\moshuangyou\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\moshuangyou\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\moshuangyou\AppData\Local\openvr\openvrpaths.vrpath
+1610698545041	Marionette	INFO	Listening on port 65525
+[Child 21672] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21672] WARNING: pipe1610698546624	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610698546682	Marionette	DEBUG	Register listener.js for window 4294967297
+1610698548759	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1610698549192	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1610698549193	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1610698549609	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uaterp.pgl-world.com.cn/"
+1610698549775	Marionette	DEBUG	Received DOM event "pageshow" for "https://uaterp.pgl-world.com.cn/"
+1610698552406	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1610698557496	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1610698557780	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1610698558096	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1610698632030	geckodriver	INFO	geckodriver 0.20.1
+1610698632055	geckodriver	INFO	Listening on 127.0.0.1:49351
+1610698635119	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MOSHUA~1\\AppData\\Local\\Temp\\rust_mozprofile.KndfuTT6315I"
+1610698636130	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\moshuangyou\AppData\Local\openvr\openvrpaths.vrpath
+1610698636822	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\moshuangyou\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\moshuangyou\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\moshuangyou\AppData\Local\openvr\openvrpaths.vrpath
+1610698639963	Marionette	INFO	Listening on port 49360
+[Child 31416] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 31416] WARNING: pipe eUnable to read VR Path Registry from C:\Users\moshuangyou\AppData\Local\openvr\openvrpaths.vrpath
+1610698641265	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610698641320	Marionette	DEBUG	Register listener.js for window 4294967297
+[Child 15168] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15168] WARNING:1610698642897	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 31304] WARNING:1610698642932	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1610698645050	geckodriver	INFO	geckodriver 0.20.1
+1610698645073	geckodriver	INFO	Listening on 127.0.0.1:49403
+1610698648142	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MOSHUA~1\\AppData\\Local\\Temp\\rust_mozprofile.c1KVkpF3POqy"
+1610698649884	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\moshuangyou\AppData\Local\openvr\openvrpaths.vrpath
+1610698650995	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\moshuangyou\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\moshuangyou\AppData\Local\openvr\openvrpaths.vrpath
+[Child 26596] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26596] WARNING: 1610698653858	Marionette	INFO	Listening on port 49414
+Unable to read VR Path Registry from C:\Users\moshuangyou\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\moshuangyou\AppData\Local\openvr\openvrpaths.vrpath
+1610698654437	Marionette	WARN	TLS certificate errors will be ignored for this session
+1610698654501	Marionette	DEBUG	Register listener.js for window 4294967297
+1610698656711	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\moshuangyou\AppData\Local\openvr\openvrpaths.vrpath
+1610698657492	Marionette	DEBUG	Register listener.js for window 8589934593
+1610698657833	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1610698657834	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1610698659017	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://uaterp.pgl-world.com.cn/"
+1610698659687	Marionette	DEBUG	Received DOM event "pageshow" for "https://uaterp.pgl-world.com.cn/"
+1610698662411	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1610698666841	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1610698667153	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1610698667443	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1610699315511	geckodriver	INFO	geckodriver 0.20.1
+1610699315533	geckodriver	INFO	Listening on 127.0.0.1:50272
+1610699318566	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MOSHUA~1\\AppData\\Local\\Temp\\rust_mozprofile.6hnVIxOrS263"
+1610699322712	geckodriver	INFO	geckodriver 0.20.1
+1610699322730	geckodriver	INFO	Listening on 127.0.0.1:50288
+1610699325736	geckodriver	INFO	geckodriver 0.20.1
+1610699325752	geckodriver	INFO	Listening on 127.0.0.1:50297
+1610699328759	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MOSHUA~1\\AppData\\Local\\Temp\\rust_mozprofile.m0MIZ8KuBIgI"
+1610699330543	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1610699330737	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1610699330738	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1610699330738	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1610699330738	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1610699330914	Marionette	TRACE	Received observer notification profile-after-change
+1610699331077	Marionette	TRACE	Received observer notification toplevel-window-ready
+1610699331203	Marionette	TRACE	Received observer notification command-line-startup
+1610699331203	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1610699331366	Marionette	TRACE	Received observer notification toplevel-window-ready
+1610699334273	Marionette	TRACE	Received observer notification marionette-startup-requested
+1610699334273	Marionette	TRACE	GFX sanity window detected, waiting until it has been closed...
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1610699336200	Marionette	TRACE	Received observer notification domwindowclosed
+1610699336200	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1610699336209	Marionette	TRACE	All scripts recorded.
+1610699336209	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1610699336210	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1610699336210	Marionette	DEBUG	Setting recommended pref browser.newtabpage.enabled to false
+1610699336212	Marionette	DEBUG	Setting recommended pref browser.tabs.remote.separatePrivilegedContentProcess to false
+1610699336212	Marionette	DEBUG	Setting recommended pref browser.tabs.unloadOnLowMemory to false
+1610699336212	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1610699336213	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1610699336213	Marionette	DEBUG	Setting recommended pref dom.push.connection.enabled to false
+1610699336214	Marionette	DEBUG	Setting recommended pref privacy.trackingprotection.enabled to false
+1610699336214	Marionette	DEBUG	Setting recommended pref security.certerrors.mitm.priming.enabled to false
+1610699336214	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1610699336284	Marionette	INFO	Listening on port 50307
+1610699336285	Marionette	DEBUG	Marionette is listening
+1610699336759	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:50333
+1610699336760	Marionette	DEBUG	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1610699336761	Marionette	DEBUG	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:175: ... t@chrome://marionette/content/server.js:249:9\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:501:20\n"},null]
+1610699375308	geckodriver	INFO	geckodriver 0.20.1
+1610699375328	geckodriver	INFO	Listening on 127.0.0.1:50391
+1610699378336	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MOSHUA~1\\AppData\\Local\\Temp\\rust_mozprofile.jTiqMuCdT6TZ"
+1610699379786	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1610699379973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1610699379973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1610699379973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1610699379974	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1610699380141	Marionette	TRACE	Received observer notification profile-after-change
+1610699380286	Marionette	TRACE	Received observer notification toplevel-window-ready
+1610699380381	Marionette	TRACE	Received observer notification command-line-startup
+1610699380381	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1610699380541	Marionette	TRACE	Received observer notification toplevel-window-ready
+1610699382998	Marionette	TRACE	Received observer notification marionette-startup-requested
+1610699382999	Marionette	TRACE	GFX sanity window detected, waiting until it has been closed...
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1610699383964	Marionette	TRACE	Received observer notification domwindowclosed
+1610699383965	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1610699383975	Marionette	TRACE	All scripts recorded.
+1610699383975	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1610699383975	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1610699383976	Marionette	DEBUG	Setting recommended pref browser.newtabpage.enabled to false
+1610699383977	Marionette	DEBUG	Setting recommended pref browser.tabs.remote.separatePrivilegedContentProcess to false
+1610699383978	Marionette	DEBUG	Setting recommended pref browser.tabs.unloadOnLowMemory to false
+1610699383978	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1610699383978	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1610699383979	Marionette	DEBUG	Setting recommended pref dom.push.connection.enabled to false
+1610699383979	Marionette	DEBUG	Setting recommended pref privacy.trackingprotection.enabled to false
+1610699383979	Marionette	DEBUG	Setting recommended pref security.certerrors.mitm.priming.enabled to false
+1610699383980	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1610699384050	Marionette	INFO	Listening on port 50400
+1610699384050	Marionette	DEBUG	Marionette is listening
+1610699384595	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:50428
+1610699384597	Marionette	DEBUG	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1610699384598	Marionette	DEBUG	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:175: ... t@chrome://marionette/content/server.js:249:9\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:501:20\n"},null]
+1610699610825	geckodriver	INFO	geckodriver 0.20.1
+1610699610844	geckodriver	INFO	Listening on 127.0.0.1:50709
+1610699613957	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MOSHUA~1\\AppData\\Local\\Temp\\rust_mozprofile.PJM3yfSrxgBQ"
+1610699615287	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1610699615453	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1610699615453	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1610699615454	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1610699615454	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1610699615617	Marionette	TRACE	Received observer notification profile-after-change
+1610699615766	Marionette	TRACE	Received observer notification toplevel-window-ready
+1610699615850	Marionette	TRACE	Received observer notification command-line-startup
+1610699615850	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1610699615989	Marionette	TRACE	Received observer notification toplevel-window-ready
+1610699618599	Marionette	TRACE	Received observer notification marionette-startup-requested
+1610699618599	Marionette	TRACE	GFX sanity window detected, waiting until it has been closed...
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1610699619667	Marionette	TRACE	Received observer notification domwindowclosed
+1610699619667	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1610699619677	Marionette	TRACE	All scripts recorded.
+1610699619678	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1610699619678	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1610699619678	Marionette	DEBUG	Setting recommended pref browser.newtabpage.enabled to false
+1610699619680	Marionette	DEBUG	Setting recommended pref browser.tabs.remote.separatePrivilegedContentProcess to false
+1610699619680	Marionette	DEBUG	Setting recommended pref browser.tabs.unloadOnLowMemory to false
+1610699619680	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1610699619681	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1610699619681	Marionette	DEBUG	Setting recommended pref dom.push.connection.enabled to false
+1610699619681	Marionette	DEBUG	Setting recommended pref privacy.trackingprotection.enabled to false
+1610699619681	Marionette	DEBUG	Setting recommended pref security.certerrors.mitm.priming.enabled to false
+1610699619682	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1610699619750	Marionette	INFO	Listening on port 50718
+1610699619751	Marionette	DEBUG	Marionette is listening
+1610699620382	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:50743
+1610699620384	Marionette	DEBUG	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1610699620384	Marionette	DEBUG	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:175: ... t@chrome://marionette/content/server.js:249:9\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:501:20\n"},null]
+1610699647663	Marionette	DEBUG	Closed connection 0
+1610699648533	Marionette	TRACE	Received observer notification xpcom-will-shutdown
+1610699648534	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1610699648534	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1610699648534	Marionette	DEBUG	Resetting recommended pref browser.newtabpage.enabled
+1610699648535	Marionette	DEBUG	Resetting recommended pref browser.tabs.remote.separatePrivilegedContentProcess
+1610699648535	Marionette	DEBUG	Resetting recommended pref browser.tabs.unloadOnLowMemory
+1610699648535	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1610699648535	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1610699648536	Marionette	DEBUG	Resetting recommended pref dom.push.connection.enabled
+1610699648536	Marionette	DEBUG	Resetting recommended pref privacy.trackingprotection.enabled
+1610699648536	Marionette	DEBUG	Resetting recommended pref security.certerrors.mitm.priming.enabled
+1610699648536	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1610699648537	Marionette	INFO	Stopped listening on port 50718
+1610699648537	Marionette	DEBUG	Marionette stopped listening
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

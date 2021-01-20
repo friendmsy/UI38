@@ -1,0 +1,17 @@
+1、单进程运行，用例耗时较长，可以安装pytest-xdist ，多进行运行  pytest -n2 E:\erp\UiAuto1028\bin\run.py ，2表示启动的进程数
+
+2、pytest-xdist 运行，调用beatutifulreport 没有报告输出，pytest -n2 E:software/python3.5.1/UiAuto/bin/run.py --html=report.html
+会输出report.html，目录是当前运行目录所在的目录，如C:\Users\moshuangyou> pytest -n2 E:software/python3.5.1/UiAuto/bin/run.py --html=ERP_report.html,
+在C:\Users\moshuangyou 输出pytest的测试报告
+在其他盘跑路径符号可能要换成如下的  E:\software\python3.5.1\UiAuto\bin
+
+3、pytest -n auto E:software/python3.5.1/UiAuto/bin/run.py --html=report.html   可以自动检查服务器能开的最大进程，不用指定进程
+
+4、pytest -n auto E:erp/UiAuto1028/bin/run.py --html=report.html   可以自动检查服务器能开的最大进程，不用指定进程
+
+5、对于page 的方法，可以在设计时预留一个列表参数，方便日后扩展
+
+6、pytest 运行的方式，是直接找test方法执行，不会从run 那里开始，所以发送邮件写在那个目录下是不会执行的
+
+7、不适合取多个返回进行断言，因为返回的数量及格式不统一，会导致对比时不好设计，针对个别需要多个字段的，可在模块，方法本身中进行设计
+

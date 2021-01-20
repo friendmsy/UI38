@@ -1,0 +1,19 @@
+---
+# 登录账号
+username: 'sybmsy'
+# 登录密码
+password: '12345678'
+#验证码
+verification_code: '8888'
+---
+#订单导入
+filepath: 'E:\software\Python3.8.3\UiAuto\file\import0525.xlsx'
+#订单删除客户过滤
+customer_filtering_value: 'UAT测试公司(UATmsy)'
+edit_import_filepath: 'E:\software\Python3.8.3\UiAuto\file\edit_import.xlsx'
+
+---
+#tomcat路径
+filepath: 'E:\software\tomcat\apachetomcat9\webapps\'
+url: 'http://localhost:8080/'
+ 
